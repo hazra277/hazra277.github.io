@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hazra277.github.io/sitemap.xml
