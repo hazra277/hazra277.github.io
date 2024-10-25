@@ -154,48 +154,56 @@ Throughout the implementation, we will follow these key principles:
 The implementation of this comprehensive integration strategy will yield significant benefits for BelgiCom:
 
 1. **Enhanced Operational Efficiency**:
+
    - Achieve a **40% reduction** in service activation time due to seamless system integration and automated workflows.
    - Decrease network-related customer complaints by **25%** due to improved real-time visibility and proactive issue resolution.
 
    _Example: The time to activate a new 5G service for a customer will be reduced from days to hours. When a customer orders a new service, the integrated systems will automatically check network availability, provision the service, update billing systems, and send activation confirmation to the customer, all in a matter of minutes._
 
 2. **Improved Real-time Decision Making**:
+
    - Achieve **near real-time** (< 10 seconds) updates for critical network events across all systems.
    - Provide a **360-degree view** of customer interactions and network usage, enabling personalized customer experiences.
 
    _Example: When a network issue occurs, operations teams will have immediate visibility into affected services, impacted customers, and potential revenue impact. This will enable them to prioritize resolutions based on business impact rather than just technical severity._
 
 3. **Scalability and Performance**:
+
    - The new architecture will handle a **300% increase** in data volume without significant performance degradation.
    - Achieve a **50% improvement** in API response times through efficient caching and optimized data flows.
 
    _Example: During major sports events, the system will seamlessly handle a 250% surge in data usage and real-time billing events, ensuring uninterrupted service for customers and accurate billing despite the increased load._
 
 4. **Faster Time-to-Market**:
+
    - Reduce new service introduction time from months to **weeks**, with some simple services launched in days.
    - Decrease partner onboarding time by **60%** through standardized APIs and self-service integration portals.
 
    _Example: BelgiCom will quickly launch a new IoT-based smart home service by easily integrating with IoT device partners through the API platform and rapidly configuring the necessary billing and provisioning workflows._
 
 5. **Cost Savings and Revenue Growth**:
+
    - Achieve a **30% reduction** in IT maintenance costs due to the retirement of legacy point-to-point integrations.
    - Realize a **10% increase** in upsell opportunities identified through improved customer data integration and real-time analytics.
 
    _Example: By consolidating multiple legacy mediation systems into a single, modern integration platform, BelgiCom will significantly reduce licensing and maintenance costs. Additionally, the real-time integration of usage data with the CRM system will enable customer service representatives to make personalized upsell offers, increasing average revenue per user._
 
 6. **Improved Customer Satisfaction**:
+
    - Achieve a **35% improvement** in Net Promoter Score (NPS) due to more reliable services and personalized experiences.
    - Reduce billing-related customer complaints by **50%** due to real-time usage tracking and accurate invoicing.
 
    _Example: Customers will receive proactive notifications about potential service issues, usage thresholds, or personalized offers based on their behavior, leading to a more satisfying and transparent customer experience._
 
 7. **Enhanced Regulatory Compliance and Security**:
+
    - Ensure **100% compliance** with data protection regulations through centralized data governance.
    - Reduce data breach risks by **75%** through improved security measures and real-time monitoring.
 
    _Example: When a new data privacy regulation is introduced, BelgiCom will quickly implement the necessary changes across all integrated systems, ensuring compliance and avoiding potential fines._
 
 8. **Support for Advanced Telecom Services**:
+
    - Enable the launch of 5G network slicing services, supporting diverse use cases from enhanced mobile broadband to mission-critical IoT applications.
    - Facilitate the integration of edge computing capabilities, reducing latency for time-sensitive applications by up to **70%**.
 
